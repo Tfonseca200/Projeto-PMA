@@ -50,9 +50,9 @@ Este aplicativo foi desenvolvido utilizando React Native e Supabase para oferece
 
 ## Ilustração do Aplicativo
 
-[Clique aqui pra visualizar as imagens do app](midia_app/caputura_telas)
+[Clique aqui pra visualizar as imagens do app](midia_app/caputura_telas.md)
 
-[video ilustrativo do funcionamneto do aplicativo](https://github.com/Tfonseca200/APP_PMA/midia_app/video_ilustrativo.mp4)
+[Vídeo ilustrativo do funcionamento do aplicativo](https://github.com/Tfonseca200/Projeto-PMA/blob/main/midia_app/video_ilustrativo.mp4)
 
 
 

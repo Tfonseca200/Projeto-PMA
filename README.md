@@ -1,5 +1,8 @@
 # Aplicativo mobile "Consultar vagas"
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Tfonseca200/Projeto-PMA/blob/main/LICENSE) 
+
+
 __Projeto universitário extesionista.__
 
 ## Descrição

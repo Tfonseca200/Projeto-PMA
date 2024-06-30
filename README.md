@@ -170,3 +170,7 @@ Lembre-se de definir a política de RLS de acordo com o seu projeto
 
 mais esclarecimento segue a documentação do supabase: __[Docs Supabase](https://supabase.com/docs)__
 
+## Contribuição
+
+Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Abra uma issue para discutir ideias e sugestões, ou envie um pull request.
+
